@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SettingActivity</string>
+    <string-array name="math_entities">
+        <item>Alpha Option 01</item>
+        <item>Beta Option 02</item>
+        <item>Charlie Option 03</item>
+    </string-array>
+    <string-array name="math_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
