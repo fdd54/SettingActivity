@@ -86,4 +86,17 @@
     </PreferenceCategory>
 </PreferenceScreen>
 ```
+#### 三、界面
+1、主页面\
+![https://github.com/fdd54/SettingActivity/blob/master/images/main.jpg]
+2、EditTextPreference\
+![https://github.com/fdd54/SettingActivity/blob/master/images/edittext.jpg]
+3、ListPreference Launch preferences\
+![https://github.com/fdd54/SettingActivity/blob/master/images/list.jpg]
+4、PreferenceScreen: \
+![https://github.com/fdd54/SettingActivity/blob/master/images/screen_1.jpg]
+5、PreferenceScreen: 启动一个网页\
+![https://github.com/fdd54/SettingActivity/blob/master/images/intent.jpg]
+6、CheckBox关联
+![https://github.com/fdd54/SettingActivity/blob/master/images/check_denpendcepy.jpg]
 
