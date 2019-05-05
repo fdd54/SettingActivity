@@ -14,7 +14,7 @@
   CheckBox: 父选项\
   CheckBox: 子选项，当父选项勾选时呈现\
 #### 二、xml设置\
-...
+```
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
@@ -85,4 +85,5 @@
             android:defaultValue="false" />
     </PreferenceCategory>
 </PreferenceScreen>
-...
+```
+
