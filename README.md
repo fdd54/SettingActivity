@@ -3,16 +3,16 @@
 ##### 设置页面内容
 ###### 总共四组设置项
 ###### 1、In-line preferences
-  CheckBoxPreference\
+  CheckBoxPreference  
 ###### 2、Dialog-based preferences:
-  EditTextPreference\
-  ListPreference Launch preferences\
+  EditTextPreference  
+  ListPreference Launch preferences  
 ###### 3、Launch preferences
-  PreferenceScreen: 跳转到另一个PreferenceScreen\
-  PreferenceScreen: 启动一个网页\
+  PreferenceScreen: 跳转到另一个PreferenceScreen  
+  PreferenceScreen: 启动一个网页  
 ###### 4、Preference attributes
-  CheckBox: 父选项\
-  CheckBox: 子选项，当父选项勾选时呈现\
+  CheckBox: 父选项  
+  CheckBox: 子选项，当父选项勾选时呈现  
 #### 二、xml设置
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -87,16 +87,16 @@
 </PreferenceScreen>
 ```
 #### 三、界面
-1、主页面\
-![https://github.com/fdd54/SettingActivity/blob/master/images/main.jpg]
-2、EditTextPreference\
-![https://github.com/fdd54/SettingActivity/blob/master/images/edittext.jpg]
-3、ListPreference Launch preferences\
-![https://github.com/fdd54/SettingActivity/blob/master/images/list.jpg]
-4、PreferenceScreen: \
-![https://github.com/fdd54/SettingActivity/blob/master/images/screen_1.jpg]
-5、PreferenceScreen: 启动一个网页\
-![https://github.com/fdd54/SettingActivity/blob/master/images/intent.jpg]
-6、CheckBox关联
-![https://github.com/fdd54/SettingActivity/blob/master/images/check_denpendcepy.jpg]
+1、主页面  
+![https://github.com/fdd54/SettingActivity/blob/master/images/main.jpg]  
+2、EditTextPreference  
+![https://github.com/fdd54/SettingActivity/blob/master/images/edittext.jpg]  
+3、ListPreference Launch preferences  
+![https://github.com/fdd54/SettingActivity/blob/master/images/list.jpg]  
+4、PreferenceScreen:  
+![https://github.com/fdd54/SettingActivity/blob/master/images/screen_1.jpg]  
+5、PreferenceScreen: 启动一个网页  
+![https://github.com/fdd54/SettingActivity/blob/master/images/intent.jpg]  
+6、CheckBox关联  
+![https://github.com/fdd54/SettingActivity/blob/master/images/check_denpendcepy.jpg]  
 
